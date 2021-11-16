@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GF2595
-- 👀 I’m interested in Frontend: JS, Typescript, React, React Native and so on...
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in Frontend: JS, Typescript, React, Electron, React Native and so on...
+- 🌱 I’m currently learning Electron
 - 📫 How to reach me:
     - alexandr.g.danilov@gmail.com
     - www.vk.com/ohyouprettythings
